@@ -1,4 +1,4 @@
-# Resume Job Match Analyzer
+# Resume Job Match Analyzer(ResuMatch AI)
 
 An AI-powered web application that analyzes resumes against job descriptions to provide detailed insights and optimization recommendations.
 
